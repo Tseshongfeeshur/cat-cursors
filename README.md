@@ -13,7 +13,7 @@
 
 ## 项目内容
 
-- 由[**HappyCadogt**](https://space.bilibili.com/406949928)设计并制作
+- 由 [**HappyCadogt**](https://space.bilibili.com/406949928) 设计并制作
 - **全部**为动态图标
 - 支持 **24 / 32 / 48 / 64 / 96 / 128 / 192 / 256** 多分辨率
 
@@ -129,5 +129,5 @@ makepkg -si
 
 ## 鸣谢
 
-- **原作者**[**HappyCadogt**](https://space.bilibili.com/406949928)，没有他的付出，就没有这个项目
+- **原作者** [**HappyCadogt**](https://space.bilibili.com/406949928) ，没有他的付出，就没有这个项目
 - `xorg-xcursorgen`，它为多分辨率图标的生成提供了很便捷的方式
