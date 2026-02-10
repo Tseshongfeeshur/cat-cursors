@@ -2,7 +2,7 @@
 
 中文 | [English](./README_en-US.md)
 
-![封面](./banner.png)
+<!-- ![封面](./banner.png) -->
 
 ## 关于项目
 

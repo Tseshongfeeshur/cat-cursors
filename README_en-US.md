@@ -2,7 +2,7 @@
 
 [中文](./README.md) | English
 
-![Banner](./banner.png)
+<!-- ![Banner](./banner.png) -->
 
 ## About
 
